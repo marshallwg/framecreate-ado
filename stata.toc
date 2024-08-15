@@ -2,3 +2,5 @@ v 3
 d framecreate: A program to simplify Stata frame creation.
 d
 d Marshall Garland, University of Southern California, Austin, TX. 
+
+p framecreate
